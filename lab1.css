@@ -43,4 +43,9 @@
             *{      
                 background-color: blue;
             }
+
+            h1, h2, h3, div{
+                 
+                color: white;
+            }
           
