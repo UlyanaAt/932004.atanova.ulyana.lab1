@@ -1,0 +1,46 @@
+
+            .text 
+            {
+             text-align:  center;
+            }
+
+ 
+            a:link    {color:red; text-decoration:none}
+            a:visited {color:rgb(166, 104, 166); text-decoration:none}
+            a:hover   {color:palevioletred; text-decoration:underline}
+            a:active  {color:yellow; text-decoration:underline}
+
+
+            td{
+                width: 60px; 
+                height:60px; 
+                border: solid 1px silver; 
+                text-align:center;
+            }
+
+
+            BODY { margin-bottom: 250px; }
+            #footer {
+             position: fixed; /* Фиксированное положение */
+             left: 0; bottom: 0; /* Левый нижний угол */
+             padding: 10px; /* Поля вокруг текста */
+             background: #39b54a; /* Цвет фона */
+             color: #fff; /* Цвет текста */
+             width: 100%; /* Ширина слоя */
+            }
+         
+   
+            BODY { margin-top: 50px; }
+            #header {
+             position: fixed; /* Относительное положение */
+             right: 0; top: 0; /* Левый нижний угол */
+             padding: 10px; /* Поля вокруг текста */
+             background: #39b54a; /* Цвет фона */
+             color: #fff; /* Цвет текста */
+             width: 100%; /* Ширина слоя */
+            }
+
+            *{      
+                background-color: blue;
+            }
+          
