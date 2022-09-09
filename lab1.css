@@ -4,6 +4,18 @@
              text-align:  center;
             }
 
+            .bigText
+            {
+             line-height: 1em;   
+            }
+
+            .indent
+            {
+                line-height: 1.5;
+            }
+
+
+
  
             a:link    {color:red; text-decoration:none}
             a:visited {color:rgb(166, 104, 166); text-decoration:none}
@@ -51,6 +63,7 @@
                 color: white;
             }
 
+
             td{
                 color:white;
             }
@@ -63,5 +76,7 @@
             li{
                 padding-bottom: 5px;
             }
+
+            
 
           
