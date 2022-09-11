@@ -1,35 +1,53 @@
 
             .text 
             {
-             text-align:  center;
+                text-align:  center;
             }
 
             .bigText
             {
-             line-height: 1em;   
+                line-height: 1.25em;  
             }
 
             .indent
             {
-                line-height: 1.5;
+                line-height: 2;
             }
 
+            .square
+            {
+                width: 90px;
+                height:90px;
+                border-style: solid;
+                border-color: white;
+                border-width: thick;
+                border-top-left-radius: 15px;
+                border-bottom-right-radius: 30px;
+                float: left;
+                margin:20px;
+                margin-top:0px;
+            }
 
-
- 
-            a:link    {color:red; text-decoration:none}
-            a:visited {color:rgb(166, 104, 166); text-decoration:none}
+            *{      
+                background-color: blue;
+                padding-left: 3px;
+                padding-right: 3px;
+                font-family: Helvetica;
+            }
+            
+            a:link    {color:red; text-decoration:underline}
+            a:visited {color:rgb(166, 104, 166); text-decoration:underline}
             a:hover   {color:palevioletred; text-decoration:underline}
             a:active  {color:yellow; text-decoration:underline}
-
 
             td{
                 width: 50px; 
                 height:50px; 
                 border: solid 2px silver; 
                 text-align:center;
+                vertical-align: bottom;
+                color:white;
             }
-
 
             BODY { margin-bottom: 250px; }
             #footer {
@@ -40,7 +58,6 @@
              color: #fff; /* Цвет текста */
              width: 100%; /* Ширина слоя */
             }
-         
    
             BODY { margin-top: 50px; }
             #header {
@@ -52,20 +69,9 @@
              width: 100%; /* Ширина слоя */
             }
 
-            *{      
-                background-color: blue;
-                padding-left: 3px;
-                padding-right: 3px;
-            }
-
             h1, h2, h3, div{
                  
                 color: white;
-            }
-
-
-            td{
-                color:white;
             }
 
             ul{
@@ -75,6 +81,12 @@
 
             li{
                 padding-bottom: 5px;
+            }
+
+            table {
+                border: 1px solid #ccc;
+                border-spacing: 2px;
+                border-collapse: separate;
             }
 
             
