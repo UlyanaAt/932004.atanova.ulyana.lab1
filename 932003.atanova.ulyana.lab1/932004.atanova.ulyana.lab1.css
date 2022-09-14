@@ -4,6 +4,11 @@
                 text-align:  center;
             }
 
+            .value
+            {
+                letter-spacing: 0.5em;
+            }
+
             .bigText
             {
                 line-height: 1.25em;  
@@ -33,6 +38,7 @@
                 padding-left: 3px;
                 padding-right: 3px;
                 font-family: Helvetica;
+                background-position: right bottom;
             }
             
             a:link    {color:red; text-decoration:underline}
@@ -61,6 +67,7 @@
    
             BODY { margin-top: 50px; }
             #header {
+             font-family: monospace;
              position: fixed; /* Относительное положение */
              right: 0; top: 0; /* Левый нижний угол */
              padding: 10px; /* Поля вокруг текста */
@@ -88,6 +95,10 @@
                 border-spacing: 2px;
                 border-collapse: separate;
             }
+
+            h2 {
+                word-spacing: 10px;
+               } 
 
             
 
