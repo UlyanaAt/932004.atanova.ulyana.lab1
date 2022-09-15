@@ -33,11 +33,13 @@
                 margin-top:0px;
             }
 
-            *{      
+            *{  
+                   
                 background-color: blue;
                 padding-left: 3px;
                 padding-right: 3px;
                 font-family: Helvetica;
+                
             }
             
             a:link    {color:red; text-decoration:underline}
