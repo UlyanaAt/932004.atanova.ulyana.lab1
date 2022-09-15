@@ -33,9 +33,17 @@
                 margin-top:0px;
             }
 
+            .try{
+                
+                margin-right: 500px;
+                margin-left: 500px;
+                background-color: blue;
+                
+            }
+
             *{  
                    
-                background-color: blue;
+                
                 padding-left: 3px;
                 padding-right: 3px;
                 font-family: Helvetica;
