@@ -1,0 +1,77 @@
+#header{ 
+    font-family: "Times New Roman", Times, serif;
+    font-weight: bold;
+    right: 0; top: 0; /* Левый нижний угол */
+    padding-left: 10px;
+    padding-top: 5px;
+    padding-bottom: 30px;/* Поля вокруг текста */
+    background: #EAEAEA; /* Цвет фона */
+    color: black; /* Цвет текста */
+    height: 10%;
+}
+
+*{
+    margin:0px;
+}
+
+#paragraph{
+    font-family: "Times New Roman", Times, serif;
+    font-weight: bold;
+    color: black; /* Цвет текста */
+    padding-left: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;/* Поля вокруг текста */
+}
+
+#text{
+    font-family: "Times New Roman", Times, serif; 
+    padding-left: 10px;
+}
+
+#Rsidebar{
+
+    background-color: #FDE95E;
+    float:right;
+    width: 200px;
+}
+
+#sidebar{
+
+    background-color: #C8FC98;
+    float:left;
+    width: 25%; /* Ширина слоя */
+    padding-bottom: 1%;
+}
+
+
+
+#main{
+    background-color: white; 
+    padding-left: 225px;
+    padding-right: 4%;
+    padding-top: 5px;
+    margin-bottom: 520px;
+    margin-left: 170px;
+    margin-right: 170px;
+}
+
+#paragraph1{
+    font-family: "Times New Roman", Times, serif;
+    font-weight: bold;
+    color: black; /* Цвет текста */
+    padding-bottom: 5px;/* Поля вокруг текста */
+}
+
+#main h3{
+    display: inline;
+}
+
+#footer{
+    right: 0; bottom: 0; /* Левый нижний угол */
+    padding: 2.7px; /* Поля вокруг текста */
+    background: black; /* Цвет фона */
+    width: auto;
+    text-align:center; 
+}
+
+a:link    {color:yellow; text-decoration:underline}
