@@ -14,7 +14,7 @@
     margin:0px;
 }
 
-#paragraph{
+.paragraph{
     font-family: "Times New Roman", Times, serif;
     font-weight: bold;
     color: black; /* Цвет текста */
@@ -23,7 +23,7 @@
     padding-bottom: 5px;/* Поля вокруг текста */
 }
 
-#text{
+.text{
     font-family: "Times New Roman", Times, serif; 
     padding-left: 10px;
 }
