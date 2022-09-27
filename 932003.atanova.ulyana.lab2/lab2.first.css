@@ -7,8 +7,7 @@
     padding-bottom: 30px;/* Поля вокруг текста */
     background: #EAEAEA; /* Цвет фона */
     color: black; /* Цвет текста */
-    
-    height: 20%;
+    height: 10%;
 }
 
 *{
@@ -40,6 +39,7 @@
     background-color: white; 
     padding-left: 210px;
     padding-top: 5px;
+    margin-bottom: 557px;
 }
 
 #paragraph1{
@@ -52,4 +52,14 @@
 #main h3{
     display: inline;
 }
+
+#footer{
+    right: 0; bottom: 0; /* Левый нижний угол */
+    padding: 2.7px; /* Поля вокруг текста */
+    background: black; /* Цвет фона */
+    width: auto;
+    text-align:center; 
+}
+
+a:link    {color:yellow; text-decoration:underline}
 
