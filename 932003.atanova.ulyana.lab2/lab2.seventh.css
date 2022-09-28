@@ -1,0 +1,20 @@
+#Block{
+    background-color: white;
+    font-family: "Times New Roman", Times, serif;
+    color: black;
+    width: 25%;
+    padding: 50px;
+    border: 10px solid blue;
+    margin-left: 33%;
+    line-height: 1;
+}
+
+#whiteBlock{
+    background-color:white;
+    font-family: "Times New Roman", Times, serif;
+    color: black;
+    width: 35%;
+    margin: 1%;
+    margin-left: 33%;
+    line-height: 1;
+}
