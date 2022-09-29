@@ -1,19 +1,20 @@
 #Block{
-    background-color: blue;
+    background-color: white;
     font-family: "Times New Roman", Times, serif;
-    color: white;
-    width: 35%;
-    padding: 30px;
-    border: 30px solid blue;
-    margin-left: 30%;
+    color: black;
+    width: 25%;
+    padding: 50px;
+    border: 10px solid blue;
+    margin-left: 33%;
+    line-height: 1;
 }
 
-#greenBlock{
-    background-color:green;
+#whiteBlock{
+    background-color:white;
     font-family: "Times New Roman", Times, serif;
-    color: white;
+    color: black;
     width: 35%;
     margin: 1%;
     margin-left: 33%;
-    
+    line-height: 1;
 }
