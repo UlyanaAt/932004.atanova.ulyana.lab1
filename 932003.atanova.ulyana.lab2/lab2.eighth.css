@@ -1,0 +1,33 @@
+#staticBlock{
+    color:black;
+    position: fixed;
+    left: 10px;
+    top: 10px;
+    width: 190px;
+    height: 90px;
+    background-color: bisque;
+    padding-left: 2px;
+    padding-top: 2px;
+    float:left;
+}
+
+#staticBlock2{
+    position: fixed;
+    left: 10px;
+    top: 100px;
+    width: 192px;
+    height: 92px;
+    background-color: aqua;
+}
+
+
+#main{
+    color:black;
+    position: static;
+    left: 202px;
+    top: 10px;
+    height: 180px;
+    background-color: grey;
+}
+
+
