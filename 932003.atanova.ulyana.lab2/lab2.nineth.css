@@ -1,0 +1,15 @@
+#Block{
+    background-color: blue;
+    font-family: "Times New Roman", Times, serif;
+    color: white;
+    width: 500pt;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;;
+}
+
+#image { 
+    position: absolute; 
+    bottom: 250px;
+    left: 250px;
+}
