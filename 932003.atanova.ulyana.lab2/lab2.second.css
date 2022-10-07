@@ -41,18 +41,14 @@
     float:left;
     width: 25%; /* Ширина слоя */
     padding-bottom: 1%;
+    margin-right: 6px;
 }
 
 
 
 #main{
-    background-color: white; 
-    padding-left: 225px;
-    padding-right: 4%;
     padding-top: 5px;
     margin-bottom: 520px;
-    margin-left: 170px;
-    margin-right: 170px;
 }
 
 #paragraph1{
