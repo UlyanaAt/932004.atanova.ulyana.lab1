@@ -52,7 +52,8 @@
     position: fixed;
     right: 0px;
     bottom: 0px;
-    width: 98px;
     height: 100px;
-    background-color: forestgreen;}
+    background-color: forestgreen;
+    z-index: -1;
+}
 
