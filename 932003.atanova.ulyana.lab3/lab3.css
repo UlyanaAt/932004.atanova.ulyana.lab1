@@ -38,7 +38,7 @@ html, body{
         }
 .content { grid-area: content;
            background-color: white;
-           font-family: system-ui;
+           font-family: "Gill Sans", sans-serif;
            margin:0%;
            padding:30px;
            max-width: 600px;
