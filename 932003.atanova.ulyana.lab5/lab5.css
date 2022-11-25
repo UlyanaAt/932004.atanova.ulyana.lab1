@@ -27,12 +27,13 @@ button{
     margin: 0 35%;
     border: 0px;
     box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    padding: 7px;
 
 }
 
 button a{
     color: white;
-    padding: 7px;
+    text-decoration: none;
     
 }
 
