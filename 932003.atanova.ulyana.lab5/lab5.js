@@ -6,7 +6,6 @@ const open_news1 = document.getElementById('open_news1');
 const open_news2 = document.getElementById('open_news2');
 const open_news3 = document.getElementById('open_news3');
 
-// const first = document.getElementById('first');
 
 open_news1.addEventListener('click', 
 function(a){
