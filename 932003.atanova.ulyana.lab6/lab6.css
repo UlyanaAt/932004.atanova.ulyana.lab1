@@ -38,7 +38,13 @@ a{
     float: left;
 }
 
-.image{
+.image1{
+    width: 90%;
+    padding: 20px;
+    height: 70%;
+}
+
+.image2{
     width: 90%;
     padding: 20px;
     height: 70%;
